@@ -14,6 +14,10 @@ h1{
     padding-left: 80px;
     color: azure;
 }
+h2{
+    padding-left: 80px;
+    color: azure;
+}
 .hashtag{
     color: darkgoldenrod;
     padding-left: 80px;
@@ -21,4 +25,19 @@ h1{
 }
 i{
     font-size: 25px;
+}
+
+body{
+    background-color: #222;
+}
+
+#imagen-sobremi{
+    height: 150px;
+    width: 170px;
+    padding-left: 80px;
+}
+p{
+    align-items: center;
+    color: azure;
+    padding-left: 80px;
 }
