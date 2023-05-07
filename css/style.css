@@ -5,10 +5,11 @@
 }
 
 .header{
-    background-image:url(./images/display6.png);
+    background-image:url(./images/Captura.PNG);
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
+    border-bottom: 1px rgb(92, 92, 92) solid;
 }
 h1{
     padding-left: 80px;
@@ -18,10 +19,20 @@ h2{
     padding-left: 80px;
     color: azure;
 }
+
+a:any-link{
+    color: darkgoldenrod;
+}
 .hashtag{
     color: darkgoldenrod;
     padding-left: 80px;
     font-size: 20px;
+    
+}
+
+/*  la etiqueta i es de la libreria font avesome  */
+i:hover{
+    color: aliceblue;
 }
 i{
     font-size: 25px;
@@ -40,4 +51,5 @@ p{
     align-items: center;
     color: azure;
     padding-left: 80px;
+    padding-right: 80px;
 }
