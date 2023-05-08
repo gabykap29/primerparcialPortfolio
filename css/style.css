@@ -8,7 +8,7 @@
     background-image:url(./images/Captura.PNG);
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 240px;
+    height: 550px;
     border-bottom: 1px rgb(92, 92, 92) solid;
 }
 h1{
@@ -72,5 +72,28 @@ footer{
     padding-left: 150px;
 }
 footer > p{
+    display: flex;
     color: rgb(78, 64, 46);
+    flex-direction: row-reverse;
+}
+#div-nav{
+    color: aliceblue;
+    background-color: rgba(3, 3, 3, 0.911);
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding-left: 80px;
+    height: 40px;
+    border-bottom: rgb(56, 56, 56) 1px solid;
+}
+nav > ul{
+    list-style: none;
+    display: flex;  
+    
+} 
+.menu > li{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    padding-left: 150px;
 }
