@@ -53,3 +53,24 @@ p{
     padding-left: 80px;
     padding-right: 80px;
 }
+.div-footer{
+    border-bottom: 1px rgb(92, 92, 92) solid;
+    background-color: rgb(12, 11, 11);
+    color: azure;
+
+}
+footer{
+    height: 100px;
+}
+#lista-footer{
+   display: flex;
+   align-items: center;
+   list-style: none;
+   border-top: rgb(63, 63, 63) solid 1px ;
+   }
+#lista-footer > li{
+    padding-left: 150px;
+}
+footer > p{
+    color: rgb(78, 64, 46);
+}
