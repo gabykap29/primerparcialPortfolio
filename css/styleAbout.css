@@ -5,8 +5,41 @@
 #imagen-perfil{
     height: 200px;
 }
-article{
+#sobre-mi{
     padding-left: 80px;
-    background-color: #222;
+    color: aliceblue;    
+    border-bottom: #4e4e4e solid  1px;
+    padding-right: 80px;
+}
+
+section{
+    padding-right: 80px;
     color: aliceblue;
+    padding-left: 80px;
+}
+
+
+body{
+    background-image: url(./images/5405317.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#footer{
+    background-color: #1d1c1c;
+    
+}
+
+a:any-link{
+    color: darkgoldenrod;
+}
+
+#text-footer{
+    color: aliceblue;
+}
+
+footer > p{
+    display: flex;
+    color: darkgoldenrod;
+    flex-direction: row-reverse;
 }
