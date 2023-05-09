@@ -1,0 +1,38 @@
+
+
+#footer{
+    background-color: #1d1c1c;
+    
+}
+
+a:any-link{
+    color: darkgoldenrod;
+}
+
+#text-footer{
+    color: aliceblue;
+}
+
+footer > p{
+    display: flex;
+    color: darkgoldenrod;
+    flex-direction: row-reverse;
+}
+
+section > h1{
+    font-size: 30px;
+}
+section{
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-top: 10px;
+    border-bottom: #919191 solid 1px;
+    color: aliceblue;
+
+
+}
+
+#imagen-section{
+    height: 40vh;
+}
