@@ -1,0 +1,21 @@
+a:any-link{
+    color: darkgoldenrod;
+}
+
+main{
+    color: aliceblue;
+}
+footer > p{
+    display: flex;
+    color: darkgoldenrod;
+    flex-direction: row-reverse;
+    border-top: 1px rgb(87, 87, 87) solid;
+}
+
+i{
+    font-size: 80px;
+    color: aliceblue;
+}
+main{
+    border-top: 1px rgb(87, 87, 87) solid;
+}

@@ -1,12 +1,12 @@
 *{
-    padding: 0%;
-    margin: 0%;
+    padding: 0px;
+    margin: 0px;
     font-family: 'Ubuntu', sans-serif;
 }
 
 .header{
     background-image:url(./images/Captura.PNG);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 550px;
     border-bottom: 1px rgb(92, 92, 92) solid;
@@ -47,53 +47,21 @@ body{
     width: 170px;
     padding-left: 80px;
 }
-p{
-    align-items: center;
-    color: azure;
-    padding-left: 80px;
-    padding-right: 80px;
-}
-.div-footer{
-    border-bottom: 1px rgb(92, 92, 92) solid;
-    background-color: rgb(12, 11, 11);
-    color: azure;
-
-}
-footer{
-    height: 100px;
-}
-#lista-footer{
-   display: flex;
-   align-items: center;
-   list-style: none;
-   border-top: rgb(63, 63, 63) solid 1px ;
-   }
-#lista-footer > li{
-    padding-left: 150px;
-}
 footer > p{
     display: flex;
     color: rgb(78, 64, 46);
     flex-direction: row-reverse;
-}
-#div-nav{
-    color: aliceblue;
-    background-color: rgba(3, 3, 3, 0.911);
-    list-style: none;
-    display: flex;
-    flex-direction: row;
     padding-left: 80px;
-    height: 40px;
-    border-bottom: rgb(56, 56, 56) 1px solid;
+    padding-right: 80px;
+    margin-bottom: 0%;
 }
-nav > ul{
-    list-style: none;
-    display: flex;  
-    
-} 
+
 .menu > li{
     display: flex;
     flex-direction: row;
     padding: 0px;
     padding-left: 150px;
+}
+#nav-menu{
+    border-bottom: #5e5e5e solid 1px;
 }
