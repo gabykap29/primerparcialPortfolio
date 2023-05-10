@@ -25,6 +25,9 @@ i{
     color: aliceblue;
 }
 
-#icono-django{
-    height: 20vh;
+#seccion1{
+    border-bottom: #464646 solid 1px;
+}
+.iconos{
+    height: 15vh;
 }
