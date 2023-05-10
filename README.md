@@ -1,6 +1,6 @@
                     Primer parcial Taller de Programación
 
-Este es el trabajo realizado para el Parcial de la materia Taller de Lenguajes de programación, realizado en el Instituto Politécnico Fomrosa.
+Este es el trabajo realizado para el Parcial de la materia Taller de Lenguajes de programación, realizado en el Instituto Politécnico Formosa.
 Este repositorio cuenta con el Portfolio del Alumno Acosta Gabriel Hernan Miguel, el mismo consta de:
 - Home 
 !["seccion HOME"](./css/images/images_readme/home.PNG)
